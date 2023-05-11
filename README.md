@@ -16,8 +16,8 @@ Actuellement, les options disponibles sont :
     - Une actualisations des données (10 secondes pour les tests effectués mais modifiable)
     - Une alerte suivant le taux de remplissage des conteneurs
 
-**Pour ce qui est des fonctionnements des différents fichiers nous avons :
-**
+Pour ce qui est des fonctionnements des différents fichiers nous avons :
+
 - index.php : Page d'accueil du site web permettant d'accéder aux site de conteneur et au formulaire.
 - index2.php : Page affichant les informations des différents site de conteneurs (Nom du site, taux de remplissage, fréquence de remplissage, localisation, alerte de niveau de remplissage)
 - site.php : Formulaire permettant un ajout de site de conteneur dans la base de donnée
